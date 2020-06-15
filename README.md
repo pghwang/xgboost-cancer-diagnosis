@@ -79,3 +79,8 @@ This project will output four files:
 
 * This project has been created for an undergraduate research project under the Broad Institute of MIT and Harvard.
 * Special thanks to Jimmy Guo and Hannah Hoffman for the guidance and support!
+
+## References
+
+XGBoost CV: https://www.kaggle.com/cast42/xg-cv
+XGBoost Parameter Tuning: https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
