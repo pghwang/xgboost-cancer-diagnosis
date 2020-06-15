@@ -82,5 +82,5 @@ This project will output four files:
 
 ## References
 
-XGBoost CV: https://www.kaggle.com/cast42/xg-cv
-XGBoost Parameter Tuning: https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
+    XGBoost CV: https://www.kaggle.com/cast42/xg-cv
+    XGBoost Parameter Tuning: https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/
